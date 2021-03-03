@@ -23,10 +23,6 @@ registerBlockType( 'scripture-verses/bible-verse', {
         __( 'scripture' )
 	],
     attributes: {
-        content: {
-            type: 'string',
-            default: '...',
-        },
     },
 	edit: ScriptureVersesBlockEditor,
 	save: ScriptureVersesBlockSave

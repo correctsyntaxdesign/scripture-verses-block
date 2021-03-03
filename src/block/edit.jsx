@@ -2,22 +2,17 @@
  * External dependencies
  */
 const { Component } = wp.element;
-const { InnerBlocks, InspectorControls, PlainText } = wp.blockEditor;
-const { ExternalLink, PanelBody, TextControl, ToggleControl } = wp.components;
-const { __ } = wp.i18n;
+const { InnerBlocks } = wp.blockEditor;
 
 class ScriptureVersesBlockEditor extends Component {
     render() {
-        const { className, attributes, setAttributes } = this.props;
-        const { artist, title, showTitle, externalLink } = attributes;
+        const { className } = this.props;
         return(
             <div>
                 <div className={ className }>
                     <InnerBlocks
-                        allowedBlocks={ [ 'core/paragraph', 'core/heading' ] }
+                        allowedBlocks={ [ 'core/paragraph'] }
                         templateLock={ false }
-                        template={ [
-                        ] }
                     />
                 </div>
             </div>
