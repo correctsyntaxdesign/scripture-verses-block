@@ -8,7 +8,9 @@ class ScriptureVersesBlockSave extends Component {
     render() {
         return (
             <div className="is-saved">
-                <InnerBlocks.Content />
+                <blockquote>
+                    <InnerBlocks.Content />
+                </blockquote>
             </div>
         );
     }
