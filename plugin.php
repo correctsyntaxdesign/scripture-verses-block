@@ -5,7 +5,7 @@
  * Description: Very simple plugin to add Scripture verses to your WordPress posts and pages.
  * Author: Noah Rahm
  * Author URI:
- * Version: 1.0
+ * Version: 1.1
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  *
