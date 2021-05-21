@@ -1,0 +1,17 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-scripture-verses-bible-verse {
+  color: #a72828;
+  font-family: "Segoe UI Semilight", "Selawik Semilight", sans-serif;
+  margin-left: 1rem;
+}
+
+.wp-block-scripture-verses-bible-verse b {
+  color: #212529;
+}
+
+/*# sourceMappingURL=style-index.css.map*/

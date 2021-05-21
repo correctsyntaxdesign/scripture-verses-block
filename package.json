@@ -1,13 +1,23 @@
 {
-  "name": "lyrics-block-cgb-guten-block",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "start": "cgb-scripts start",
-    "build": "cgb-scripts build",
-    "eject": "cgb-scripts eject"
-  },
-  "dependencies": {
-    "cgb-scripts": "^1.17.0"
-  }
+	"name": "scripture-verses-block",
+	"version": "0.1.0",
+	"description": "Simple plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages",
+	"author": "Correct Syntax",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"start": "wp-scripts start",
+		"packages-update": "wp-scripts packages-update"
+	},
+	"dependencies": {
+		"@wordpress/block-editor": "^6.1.0",
+		"@wordpress/blocks": "^9.1.0",
+		"@wordpress/i18n": "^4.1.0"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^16.1.0"
+	}
 }
