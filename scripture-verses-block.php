@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Scripture Verses Block
+ * Plugin Name:       Scripture Verses
  * Description:       Simple plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages
  * Requires at least: 5.7
  * Requires PHP:      7.0
