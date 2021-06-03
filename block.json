@@ -1,7 +1,7 @@
 {
 	"apiVersion": 2,
 	"name": "scripture-verses/bible-verse",
-	"title": "Scripture Verses Block",
+	"title": "Scripture Verses",
 	"category": "widgets",
 	"icon": "book",
 	"description": "Simple plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages",
