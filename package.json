@@ -1,6 +1,6 @@
 {
 	"name": "scripture-verses-block",
-	"version": "0.1.0",
+	"version": "0.1.3",
 	"description": "Simple plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages",
 	"author": "Correct Syntax",
 	"main": "build/index.js",
