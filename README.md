@@ -1,15 +1,15 @@
 # Scripture Verses Block
 
-Simple plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages.
+Simple Wordpress plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages.
 
-Unlike other plugins, this plugin assumes you "bring-your-own" verses, as in you are expected to copy and paste the verses you want into this block. 
+Unlike other plugins, this plugin assumes you "bring-your-own" verses, as in you are expected to copy and paste the verses you want into this block.
 
-The advantage is that the resulting page loads faster since this plugin makes no third-party api calls to retrieve verses, is lightweight and doesn't depend on any other services in order to function properly.
+The advantage is that the resulting page loads faster since this plugin makes no third-party API calls to retrieve verses, is lightweight and doesn't depend on any other services in order to function properly.
 
 
 # Usage
 
-Install just like any other Wordpress plugin. You should then find a new Gutenburg block in the editor called, "Scripture Verses".
+Zip the repo contents and install just like any other Wordpress plugin. You should then find a new Gutenburg block in the editor called, "Scripture Verses".
 
 The block can be used a few different ways:
 
@@ -33,6 +33,6 @@ Since the Scripture Verses block is made up of the Wordpress core Paragraph bloc
 Ideas, bug reports and pull requests are always welcome!
 
 
-# License 
+# License
 
 Licensed under the GPL-2.0 license.
