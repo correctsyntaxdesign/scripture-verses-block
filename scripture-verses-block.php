@@ -4,7 +4,7 @@
  * Description:       Simple plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages
  * Requires at least: 5.7
  * Requires PHP:      7.0
- * Version:           0.1.3
+ * Version:           0.1.4
  * Author:            Noah Rahm
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       bible-verse
