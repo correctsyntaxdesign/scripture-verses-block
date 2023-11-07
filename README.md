@@ -2,9 +2,9 @@
 
 Simple Wordpress plugin providing a Gutenburg block to add Scripture verses to your WordPress posts and pages.
 
-Unlike other plugins, this plugin assumes you "bring-your-own" verses, as in you are expected to copy and paste the verses you want into this block.
+Unlike other plugins, this plugin assumes that you want to "bring-your-own" verses. You are expected to copy and paste the verses you want into this block. This block handles styling and layout for you.
 
-The advantage is that the resulting page loads faster since this plugin makes no third-party API calls to retrieve verses, is lightweight and doesn't depend on any other services in order to function properly.
+The advantage is that the resulting page loads faster since this plugin makes no third-party API calls to retrieve verses and doesn't depend on any other services in order to function properly.
 
 
 # Usage
